@@ -115,7 +115,7 @@ PROBLEM 3
 	
 		
 
-		document.getElementById('prob3').innerHTML =  prime();
+		document.getElementById('prob3').innerHTML =  "Not solved yet";
      		document.getElementById("prob3").style.padding = "5px";
 	
 	}   		
